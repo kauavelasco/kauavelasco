@@ -24,7 +24,7 @@
 
 <div align="center">
 
-  ![Snake animation](https://github.com/kauavelasco/kauavelasco/output/github-snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/kauavelasco/kauavelasco/output/github-snake.svg)
   
 </div>
 
