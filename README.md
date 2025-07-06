@@ -16,7 +16,7 @@
   
 </div>
 
-<div align="right">
+<div align="center">
 
   <img height="100" alt="xdpDEV" src="https://usagif.com/wp-content/uploads/2022/hqgif/ghost-36-ghost-with-funny-arms.gif">
   
