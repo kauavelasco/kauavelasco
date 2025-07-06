@@ -22,7 +22,13 @@
   
 </div>
 
-<div>
+<div align="center">
+
+  ![Snake animation](https://github.com/kauavelasco/kauavelasco/output/github-snake.svg)
+  
+</div>
+
+<div align="center">
 
  - 🔭 Alguns projetos que ando trabalhando.. [Cinemax - Clone](https://github.com/kauavelasco/Cinemax-Clone)
 
