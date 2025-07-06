@@ -30,10 +30,10 @@
 
 <div align="center">
 
- - 🔭 Alguns projetos que ando trabalhando.. [Cinemax - Clone](https://github.com/kauavelasco/Cinemax-Clone)
+  🔭 Alguns projetos que ando trabalhando.. [Cinemax - Clone](https://github.com/kauavelasco/Cinemax-Clone)
 
-- 🌱 Estou aprendendo atualmente **JavaScript... Bootstrap...**
+  🌱 Estou aprendendo atualmente **JavaScript... Bootstrap...**
 
-- 📫 Vamos construir um futuro juntos **kauavelasco1205@gmail.com**
+  📫 Vamos construir um futuro juntos **kauavelasco1205@gmail.com**
   
 </div>
