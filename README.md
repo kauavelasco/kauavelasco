@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, me chamo kauavelasco</h1>
-<h3 align="center">Um desenvolvedor frontend em treinamento</h3>
+<h3 align="center">Um desenvolvedor fullstack em treinamento</h3>
 
 <div align="center">
 
