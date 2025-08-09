@@ -32,7 +32,7 @@
 
   🔭 Alguns projetos que ando trabalhando.. [Cinemax - Clone](https://github.com/kauavelasco/Cinemax-Clone)
 
-  🌱 Estou aprendendo atualmente **JavaScript... Bootstrap...**
+  🌱 Estou aprendendo atualmente **JavaScript...**
 
   📫 Vamos construir um futuro juntos **kauavelasco1205@gmail.com**
   
