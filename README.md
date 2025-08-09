@@ -30,7 +30,7 @@
 
 <div align="center">
 
-  🔭 Alguns projetos que ando trabalhando.. [Cinemax - Clone](https://github.com/kauavelasco/Cinemax-Clone)
+  🔭 Alguns projetos que ando trabalhando.. [...]
 
   🌱 Estou aprendendo atualmente **JavaScript...**
 
