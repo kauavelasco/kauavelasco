@@ -39,7 +39,7 @@
 
   🔭 Alguns projetos que ando trabalhando.. [...]
 
-  🌱 Estou aprendendo atualmente **Ecmascript... Flutter... Firebase...**
+  🌱 Estou aprendendo atualmente **Ecmascript... Flutter... Firebase... Php...**
 
   📫 Vamos construir um futuro juntos **kauavelasco1205@gmail.com**
   
