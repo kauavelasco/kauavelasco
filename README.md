@@ -61,7 +61,6 @@
 
 <br>
 
-<!-- 🐍 Snake animation -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/kauavelasco/kauavelasco/output/github-snake.svg" alt="Snake animation"/>
 </p>
@@ -72,4 +71,10 @@
   🔭 Alguns projetos que ando trabalhando... <br><br>
   🌱 Atualmente aprendendo <b>Ecmascript, Flutter, Firebase, PHP</b> <br><br>
   📫 Vamos construir um futuro juntos: <b>kauavelasco1205@gmail.com</b>
+</div>
+
+<br>
+
+<div align="center">
+  ✨ Desenvolvido por Kauã Velasco | xdpDEV
 </div>
