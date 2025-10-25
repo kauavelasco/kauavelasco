@@ -61,14 +61,15 @@
 
 <br>
 
-<div align="center">
+<!-- 🐍 Snake animation -->
+<p align="center">
   <img src="https://raw.githubusercontent.com/kauavelasco/kauavelasco/output/github-snake.svg" alt="Snake animation"/>
-</div>
+</p>
 
 <br>
 
 <div align="center">
   🔭 Alguns projetos que ando trabalhando... <br><br>
-  🌱 Atualmente aprendendo **Ecmascript, Flutter, Firebase, PHP** <br><br>
-  📫 Vamos construir um futuro juntos: **kauavelasco1205@gmail.com**
+  🌱 Atualmente aprendendo <b>Ecmascript, Flutter, Firebase, PHP</b> <br><br>
+  📫 Vamos construir um futuro juntos: <b>kauavelasco1205@gmail.com</b>
 </div>
