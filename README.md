@@ -6,147 +6,188 @@
 </p>
 
 <div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kauavelasco&layout=compact&theme=dark&locale=pt-br" />
+  <img width="75%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kauavelasco&layout=compact&theme=dark&locale=pt-br" />
 </div>
 
 ---
 
-## 🧠 Sobre mim
-💻 Apaixonado por tecnologia e desenvolvimento  
-🚀 Focado em evoluir como desenvolvedor full stack  
+<h2 align="center">🧠 Sobre mim</h2>
+
+<div align="center">
+<div style="width:80%; padding:18px; border-radius:12px; background:rgba(255,255,255,0.03); border-left:3px solid rgba(255,255,255,0.2); text-align:center;">
+
+💻 "Tecnologia é a ponte entre ideias e realidade." <br><br>
+🚀 Focado em evoluir como desenvolvedor full stack <br><br>
 📚 Sempre aprendendo novas ferramentas e boas práticas  
 
----
-
-## 🛠️ Tecnologias & Ferramentas
-
-### 🎨 Front-end
-<table align="center">
-<tr>
-<td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/><br>
-<sub><b>HTML5</b></sub>
-</td>
-
-<td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/><br>
-<sub><b>CSS3</b></sub>
-</td>
-</tr>
-
-<tr>
-<td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/><br>
-<sub><b>JavaScript</b></sub>
-</td>
-
-<td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45"/><br>
-<sub><b>Bootstrap</b></sub>
-</td>
-</tr>
-</table>
-
-<br>
+</div>
+</div>
 
 ---
 
-### ⚙️ Back-end
-<table align="center">
-<tr>
-<td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45"/><br>
-<sub><b>PHP</b></sub>
-</td>
+<h2 align="center">🛠️ Tecnologias & Ferramentas</h2>
 
-<td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/><br>
-<sub><b>MySQL</b></sub>
-</td>
-</tr>
+<h3 align="center">🎨 Front-end</h3>
 
-<tr>
-<td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45"/><br>
-<sub><b>Firebase</b></sub>
-</td>
-</tr>
-</table>
+<div align="center">
 
-<br>
+<div style="display:flex; align-items:center; justify-content:center; margin:12px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42"/>
+<div style="margin-left:14px; padding:12px 16px; border-radius:10px; background:rgba(255,255,255,0.03); border-left:4px solid #ff6b3d; text-align:center; min-width:260px;">
+<b>HTML5</b><br>
+"Base sólida para experiências digitais."
+</div>
+</div>
 
----
+<div style="display:flex; align-items:center; justify-content:center; margin:12px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42"/>
+<div style="margin-left:14px; padding:12px 16px; border-radius:10px; background:rgba(255,255,255,0.03); border-left:4px solid #2965f1; text-align:center; min-width:260px;">
+<b>CSS3</b><br>
+"Design comunica mais do que palavras."
+</div>
+</div>
 
-### 📱 Mobile
-<table align="center">
-<tr>
-<td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45"/><br>
-<sub><b>Flutter</b></sub>
-</td>
+<div style="display:flex; align-items:center; justify-content:center; margin:12px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/>
+<div style="margin-left:14px; padding:12px 16px; border-radius:10px; background:rgba(255,255,255,0.03); border-left:4px solid #f7df1e; text-align:center; min-width:260px;">
+<b>JavaScript</b><br>
+"Interatividade dá vida às ideias."
+</div>
+</div>
 
-<td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="45"/><br>
-<sub><b>Dart</b></sub>
-</td>
-</tr>
-</table>
+<div style="display:flex; align-items:center; justify-content:center; margin:12px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="42"/>
+<div style="margin-left:14px; padding:12px 16px; border-radius:10px; background:rgba(255,255,255,0.03); border-left:4px solid #7952b3; text-align:center; min-width:260px;">
+<b>Bootstrap</b><br>
+"Eficiência também é design."
+</div>
+</div>
 
-<br>
+</div>
 
 ---
 
-### 🧩 Frameworks & Bibliotecas
-<table align="center">
-<tr>
-<td align="center" width="90">
-<img src="https://logo.svgcdn.com/l/slim.svg" width="45"/><br>
-<sub><b>Slim</b></sub>
-</td>
+<h3 align="center">⚙️ Back-end</h3>
 
-<td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45"/><br>
-<sub><b>Bootstrap</b></sub>
-</td>
-</tr>
+<div align="center">
 
-<tr>
-<td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" width="45"/><br>
-<sub><b>Babel</b></sub>
-</td>
-</tr>
-</table>
+<div style="display:flex; align-items:center; justify-content:center; margin:12px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="42"/>
+<div style="margin-left:14px; padding:12px 16px; border-radius:10px; background:rgba(255,255,255,0.03); border-left:4px solid #8892bf; text-align:center; min-width:260px;">
+<b>PHP</b><br>
+"A lógica invisível que sustenta tudo."
+</div>
+</div>
 
-<br>
+<div style="display:flex; align-items:center; justify-content:center; margin:12px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42"/>
+<div style="margin-left:14px; padding:12px 16px; border-radius:10px; background:rgba(255,255,255,0.03); border-left:4px solid #00758f; text-align:center; min-width:260px;">
+<b>MySQL</b><br>
+"Dados bem organizados contam histórias."
+</div>
+</div>
 
----
+<div style="display:flex; align-items:center; justify-content:center; margin:12px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="42"/>
+<div style="margin-left:14px; padding:12px 16px; border-radius:10px; background:rgba(255,255,255,0.03); border-left:4px solid #ffca28; text-align:center; min-width:260px;">
+<b>Firebase</b><br>
+"Do local ao global com simplicidade."
+</div>
+</div>
 
-### 🧰 Ferramentas
-<table align="center">
-<tr>
-<td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/><br>
-<sub><b>Git</b></sub>
-</td>
-
-<td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45"/><br>
-<sub><b>Postman</b></sub>
-</td>
-</tr>
-
-<tr>
-<td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45"/><br>
-<sub><b>Figma</b></sub>
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-## 📊 Atividade
+<h3 align="center">📱 Mobile</h3>
+
+<div align="center">
+
+<div style="display:flex; align-items:center; justify-content:center; margin:12px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="42"/>
+<div style="margin-left:14px; padding:12px 16px; border-radius:10px; background:rgba(255,255,255,0.03); border-left:4px solid #02569b; text-align:center; min-width:260px;">
+<b>Flutter</b><br>
+"Uma base, múltiplas plataformas."
+</div>
+</div>
+
+<div style="display:flex; align-items:center; justify-content:center; margin:12px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="42"/>
+<div style="margin-left:14px; padding:12px 16px; border-radius:10px; background:rgba(255,255,255,0.03); border-left:4px solid #00b4ab; text-align:center; min-width:260px;">
+<b>Dart</b><br>
+"Código limpo é código escalável."
+</div>
+</div>
+
+</div>
+
+---
+
+<h3 align="center">🧩 Frameworks & Bibliotecas</h3>
+
+<div align="center">
+
+<div style="display:flex; align-items:center; justify-content:center; margin:12px;">
+<img src="https://logo.svgcdn.com/l/slim.svg" width="42"/>
+<div style="margin-left:14px; padding:12px 16px; border-radius:10px; background:rgba(255,255,255,0.03); border-left:4px solid #ffffff; text-align:center; min-width:260px;">
+<b>Slim</b><br>
+"Menos é mais, especialmente em APIs."
+</div>
+</div>
+
+<div style="display:flex; align-items:center; justify-content:center; margin:12px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="42"/>
+<div style="margin-left:14px; padding:12px 16px; border-radius:10px; background:rgba(255,255,255,0.03); border-left:4px solid #7952b3; text-align:center; min-width:260px;">
+<b>Bootstrap</b><br>
+"Produtividade com consistência."
+</div>
+</div>
+
+<div style="display:flex; align-items:center; justify-content:center; margin:12px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" width="42"/>
+<div style="margin-left:14px; padding:12px 16px; border-radius:10px; background:rgba(255,255,255,0.03); border-left:4px solid #f9dc3e; text-align:center; min-width:260px;">
+<b>Babel</b><br>
+"Compatibilidade é acessibilidade."
+</div>
+</div>
+
+</div>
+
+---
+
+<h3 align="center">🧰 Ferramentas</h3>
+
+<div align="center">
+
+<div style="display:flex; align-items:center; justify-content:center; margin:12px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"/>
+<div style="margin-left:14px; padding:12px 16px; border-radius:10px; background:rgba(255,255,255,0.03); border-left:4px solid #f1502f; text-align:center; min-width:260px;">
+<b>Git</b><br>
+"Controle é poder."
+</div>
+</div>
+
+<div style="display:flex; align-items:center; justify-content:center; margin:12px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="42"/>
+<div style="margin-left:14px; padding:12px 16px; border-radius:10px; background:rgba(255,255,255,0.03); border-left:4px solid #ff6c37; text-align:center; min-width:260px;">
+<b>Postman</b><br>
+"Testar é compreender."
+</div>
+</div>
+
+<div style="display:flex; align-items:center; justify-content:center; margin:12px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="42"/>
+<div style="margin-left:14px; padding:12px 16px; border-radius:10px; background:rgba(255,255,255,0.03); border-left:4px solid #a259ff; text-align:center; min-width:260px;">
+<b>Figma</b><br>
+"Ideias começam no rascunho"
+</div>
+</div>
+
+</div>
+
+---
+
+<h2 align="center">📊 Atividade</h2>
 
 <p align="center">
   <img width="100%" src="https://raw.githubusercontent.com/kauavelasco/kauavelasco/output/github-snake.svg" />
@@ -154,11 +195,17 @@
 
 ---
 
-## 🚀 Atualmente
+<h2 align="center">🚀 Atualmente</h2>
 
-🔭 Trabalhando em novos projetos pessoais  
-🌱 Aprendendo **Flutter, Firebase e APIs REST com Slim**  
-📫 Contato: **kauavelasco1205@gmail.com**
+<div align="center">
+<div style="width:80%; padding:18px; border-radius:12px; background:rgba(255,255,255,0.03); border-left:3px solid rgba(255,255,255,0.2); text-align:center;">
+
+🔭 Trabalhando em novos projetos pessoais <br><br>
+🌱 Aprendendo <b>Flutter, Firebase e APIs REST com Slim</b> <br><br>
+📫 Contato: <b>kauavelasco1205@gmail.com</b>
+
+</div>
+</div>
 
 ---
 
