@@ -5,10 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=kauavelasco&label=Visualizações&color=0e75b6&style=flat" />
 </p>
 
-<div align="center">
-  <img width="75%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kauavelasco&layout=compact&theme=dark&locale=pt-br" />
-</div>
-
 ---
 
 <h2 align="center">🧠 Sobre mim</h2>
